@@ -1,2 +1,2 @@
 # DataStructure
-Basic DataStrucutres
+Basic DataStrucutres.
